@@ -1,0 +1,8 @@
+a = int(input("ENTER THE 1ST DIGIT:> "))
+b = int(input("BEGIN THE 2nd DIGIT:> "))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a**b)
+print(a%b)
